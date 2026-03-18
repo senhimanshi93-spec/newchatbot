@@ -76,7 +76,7 @@ def my_output(query):
 # Streamlit UI
 st.set_page_config(page_title="AI Agent")
 
-st.title("🤖 Gemini Agent Bot")
+st.title("🤖 Himanshi's Agent Bot")
 
 query = st.text_input("Ask something")
 
